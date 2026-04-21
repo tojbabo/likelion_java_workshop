@@ -1,4 +1,4 @@
-package workshopw_07;
+package workshop_07;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

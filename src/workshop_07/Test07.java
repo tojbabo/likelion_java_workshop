@@ -1,4 +1,4 @@
-package workshopw_07;
+package workshop_07;
 
 import java.util.Arrays;
 import java.util.List;

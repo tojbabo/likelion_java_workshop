@@ -1,4 +1,4 @@
-package workshopw_07;
+package workshop_07;
 
 public class Calculator {
 	public static double plus(int a, int b) {

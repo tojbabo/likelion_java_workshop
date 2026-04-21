@@ -1,4 +1,4 @@
-package workshopw_07;
+package workshop_07;
 
 public class AccountException extends Exception {
 	private String msg;
